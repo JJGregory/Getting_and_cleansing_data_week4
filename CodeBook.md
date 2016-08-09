@@ -1,3 +1,3 @@
-<head>
+<strong>
 Orange
-</head>
+</strong>
